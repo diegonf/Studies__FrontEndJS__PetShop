@@ -38,6 +38,7 @@ const mensagensDeErro = {
     customError: 'Voce deve ser maior de 18 anos para se cadastrar.'
   },
   cpf: {
+    patternMismatch: 'O CPF digitado não é valido.',
     valueMissing: 'O campo de CPF não pode estar vazio.',
     customError: 'O CPF digitado não é valido.'
   },
