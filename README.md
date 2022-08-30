@@ -18,7 +18,7 @@ O objetivo desse projeto foi aprofundar os conhecimentos da linguagem javascript
 * Busca dos dados completos por CEP utilizando a webservice https://viacep.com.br;
 * Utilização do [Simple Mask Money](https://github.com/codermarcos/simple-mask-money) para máscara financeira no modelo 'R$ 10,00' para o input preço no cadastro de produtos;
 
-## Técnologias utilizadas
+## Tecnologias utilizadas
 * ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 * ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
